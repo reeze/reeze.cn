@@ -92,7 +92,7 @@
         "matchdep": "~0.3.0",
         "mocha": "~1.21.4",
         "nock": "0.47.0",
-        "request": "~2.42.0",
+        "request": "~2.88.0",
         "require-dir": "~0.1.0",
         "rewire": "~2.1.0",
         "should": "~4.0.4",
